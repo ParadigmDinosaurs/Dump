@@ -8,8 +8,6 @@ using PuzzleIDs;
 namespace Soomla.Store.Example {
 public class PurchaseScript : MonoBehaviour {
 
-	public Texture text;
-
 	void Start () {
 		SoomlaStore.StartIabServiceInBg();
 		if (GameController.SoomlaStarted == false) {
