@@ -26,7 +26,7 @@ public class PurchaseScript : MonoBehaviour {
 	}
 
 
-	void OnMouseDown () {
+	void OnMouseUp () {
 		try {
 			Debug.Log("attempt to purchase");
 			StoreInventory.BuyItem ("No_Ads_Item_ID");
