@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System;
 using Soomla;
 
-namespace Soomla.Store.Example {
+namespace Soomla.Store {
 
 	public class SoomlaAssets : IStoreAssets {
 		
