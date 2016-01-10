@@ -5,7 +5,7 @@ using System.Collections;
 using System.Collections.Generic;
 using PuzzleIDs;
 
-namespace Soomla.Store.Example {
+namespace Soomla.Store {
 public class PurchaseScript : MonoBehaviour {
 
 	void Start () {
